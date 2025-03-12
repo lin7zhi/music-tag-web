@@ -116,13 +116,14 @@ ps. `/path/to/your/music` 改成你的音乐文件夹路径！`/path/to/your/con
 3 访问在127.0.0.1:8002/admin 默认账号密码 admin/admin 修改默认密码
 
 
-# 📷 User Interface
-![img_5.png](img_5.png)
-![img_4.png](img_4.png)
-![img_11.png](img_11.png)
+# 📷 User Interface (V2版本)
+![img_13.png](img_13.png)
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
+![img_19.png](img_19.png)
 ![img_12.png](img_12.png)
-![img_2.png](img_2.png)
-
 # 💬 Contact me
 如有什么意见需求，请先 star 后提出issues，我会满足你的需求，在我的能力范围内。
 issue 没及时看到的，可以加群讨论！（或者请添加我微信：charlesnowed（备注：**Music Tag**），我会拉你进群。）
