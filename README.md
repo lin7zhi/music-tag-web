@@ -4,7 +4,7 @@
 <a href="https://hellogithub.com/repository/d1919a26b74b40f19240da9f2ee3f7a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d1919a26b74b40f19240da9f2ee3f7a3&claim_uid=JQPHiFh3t5mqG1M" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 『音乐标签』Web版是一款可以编辑歌曲的标题，专辑，艺术家，歌词，封面等信息的音乐标签编辑器程序， 支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, M4A, OGG, MPC, OPUS, WMA, DSF,
-DFF, MP4等音频格式。
+MP4等音频格式。
 <div class="column" align="middle">
     <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt=""></a>
    <img src="https://img.shields.io/github/stars/xhongc/music-tag-web?color=informational&label=Stars">
@@ -31,18 +31,14 @@ DFF, MP4等音频格式。
 - 支持导出专辑封面文件，支持自定义上传专辑封面
 - 支持适配移动端 UI，支持手机端访问
 - 支持使用小爱同学播放本地音乐，播放NAS本地音乐
+- 支持网盘音乐播放
+- 支持播放记录统计，优雅展示柱形图，折线图
 
 
 # 🦀 Show Project
 DEMO 地址账号密码为：admin/admin
 
 [【音乐标签Web｜Music Tag Web】](http://114.96.87.132:8002/#/)
-
-# 🔨 How to Build?
-```bash
-1. docker-compose -f local.yml build
-2. docker-compose -f local.yml up
-```
 
 
 # 💯 How to Use
