@@ -2,3 +2,4 @@ xhongc/music_tag_web:latest
 xhongc/music_tag_web:beta
 --platform=linux/arm64 python:3.9.12-slim-bullseye
 rustdesk/rustdesk-server
+golangboyme/wxocr
