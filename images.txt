@@ -2,3 +2,4 @@ xhongc/music_tag_web:latest
 xhongc/music_tag_web:beta
 --platform=linux/amd64 ubuntu:22.04
 --platform=linux/amd64 node:20-alpine3.20
+containrrr/watchtower
