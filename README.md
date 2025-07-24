@@ -136,7 +136,7 @@ issue 没及时看到的，可以加群讨论！（或者请添加我微信：ch
 
 [MusicTag 交流群](https://t.me/+oTffyBoNALM3Yzll)
 
-QQ群：55893996
+QQ群：79502786
 
 # 💸 赞助与支持
 如果您觉得 music-tag-web 对你有帮助，可以请作者喝杯咖啡。
