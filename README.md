@@ -128,7 +128,7 @@ ps. `/path/to/your/music` 改成你的音乐文件夹路径！`/path/to/your/con
 如有什么意见需求，请先 star 后提出issues，我会满足你的需求，在我的能力范围内。
 issue 没及时看到的，可以加群讨论！（或者请添加我微信：charlesnowed（备注：**Music Tag**），我会拉你进群。）
 <div>
-<img  src="/img0818.jpg" width="250">  &nbsp;
+<img  src="/img0826.jpg" width="250">  &nbsp;
 </div>
 ## 发布频道：
 
@@ -137,7 +137,8 @@ issue 没及时看到的，可以加群讨论！（或者请添加我微信：ch
 [MusicTag 交流群](https://t.me/+oTffyBoNALM3Yzll)
 
 QQ群：55893996 （1群已满）
-QQ群：79502786
+
+QQ群：79502786 (2群)
 
 # 💸 赞助与支持
 如果您觉得 music-tag-web 对你有帮助，可以请作者喝杯咖啡。
