@@ -8,8 +8,6 @@ env:
   ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
-  GHCR_REGISTRY: "ghcr.io"
-  GHCR_NAME_SPACE: "${{ github.actor }}"
 
 jobs:
 
@@ -161,7 +159,7 @@ jobs:
 
     - name: Build and push image to GHCR
       run: |
-        echo "${{ secrets.GITHUB_TOKEN }}" | docker login $GHCR_REGISTRY -u ${{ github.actor }} --password-stdin
+        echo "${{ secrets.GHCR_TOKEN }}" | docker login $GHCR_REGISTRY -u ${{ github.actor }} --password-stdin
         # 数据预处理,判断镜像是否重名
         declare -A duplicate_images
         declare -A temp_map
