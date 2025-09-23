@@ -9,7 +9,7 @@ env:
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
   GHCR_REGISTRY: "ghcr.io"
-  GHCR_NAME_SPACE: "${{ github.repository_owner }}"
+  GHCR_NAME_SPACE: "${{ github.actor }}"
 
 jobs:
 
@@ -19,6 +19,7 @@ jobs:
     permissions:
       contents: read
       packages: write
+      id-token: write
     steps:
     - name: Before freeing up disk space
       run: |
