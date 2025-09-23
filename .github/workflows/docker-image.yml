@@ -16,6 +16,9 @@ jobs:
   build:
     name: Pull
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
     steps:
     - name: Before freeing up disk space
       run: |
