@@ -2,6 +2,7 @@
 
 # 🚀 Music Tag Web
 <a href="https://hellogithub.com/repository/d1919a26b74b40f19240da9f2ee3f7a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d1919a26b74b40f19240da9f2ee3f7a3&claim_uid=JQPHiFh3t5mqG1M" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+![star](https://atomgit.com/xhongc/music-tag-web/star/badge.svg)
 
 『音乐标签』Web版是一款可以编辑歌曲的标题，专辑，艺术家，歌词，封面等信息的音乐标签编辑器程序， 支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, M4A, OGG, MPC, OPUS, WMA, DSF,
 MP4等音频格式。
@@ -128,7 +129,7 @@ ps. `/path/to/your/music` 改成你的音乐文件夹路径！`/path/to/your/con
 如有什么意见需求，请先 star 后提出issues，我会满足你的需求，在我的能力范围内。
 issue 没及时看到的，可以加群讨论！（或者请添加我微信：charlesnowed（备注：**Music Tag**），我会拉你进群。）
 <div>
-<img  src="/img1216.jpg" width="250">  &nbsp;
+<img  src="/img1223.jpg" width="250">  &nbsp;
 </div>
 ## 发布频道：
 
